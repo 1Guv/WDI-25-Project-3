@@ -6,7 +6,7 @@ Our idea encompasses the current meetup phenomenon where it allows two individua
 
 The user can login via Facebook or GitHub and you are only able to contact another user once you have fully registered eg filled out a full profile with a skill to share. Otherwise there will be a message asking the user to register. Once registered each user profile and messaging becomes unlocked so the current logged in fully registered user has full access to use the site.
 
-[Check it out here - SpeakEasy - Meet up. Speak up. Language exchange...](https://www.google.co.uk/?gws_rd=ssl)
+[Check it out here - SpeakEasy - Meet up. Speak up. Language exchange...](https://secure-oasis-40917.herokuapp.com/)
 
 ![SpeakEasy - homepage](https://github.com/1Guv/WDI-25-Project-3/blob/master/src/images/SpeakEasy-screenshot2%20copy.png?raw=true "SpeakEasy homepage screen shot")
 
