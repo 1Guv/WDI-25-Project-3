@@ -73,7 +73,7 @@ The main blocker was time, so many things needed attention so we used Trello to 
 - Make it fully responsive.
 - Using RegEx to capitalising various outputs.
 - We were thinking of having a video as our homepage but did not get time to find the right video.
-- Styke email messages with our logo in the footer.
+- Style email messages with our logo in the footer.
 - Allow user to delete profile with confirmation modal.
 - Show profile image in the top right when a user is logged in.
 
