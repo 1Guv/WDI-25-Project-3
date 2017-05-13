@@ -107,7 +107,7 @@ Skill
         }]
       }, {
         username: 'Mark',
-        email: 'look@me.com',
+        email: 'Marksherrington@gmail.com',
         profilePic: '../images/users/MarkSherrington.jpg',
         password: 'password',
         passwordConfirmation: 'password',
