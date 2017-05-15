@@ -8,7 +8,7 @@ The user can login via Facebook or GitHub and you are only able to contact anoth
 
 [Check it out here - SpeakEasy - Meet up. Speak up. Language exchange...](https://secure-oasis-40917.herokuapp.com/)
 
-![SpeakEasy - homepage](https://github.com/1Guv/WDI-25-Project-3/blob/master/src/images/SpeakEasy-screenshot2%20copy.png?raw=true "SpeakEasy homepage screen shot")
+![SpeakEasy - homepage](https://github.com/1Guv/WDI-25-Project-3/blob/master/src/images/p3-SpeakEasy-2?raw=true "SpeakEasy homepage screen shot")
 
 ![SpeakEasy - Search](https://github.com/1Guv/WDI-25-Project-3/blob/master/src/images/SpeakEasy-screenshot1%20copy.png?raw=true "SpeakEasy Search with Map")
 
@@ -74,39 +74,3 @@ The main blocker was time, so many things needed attention so we used Trello to 
 - Style email messages with our logo in the footer.
 - Allow user to delete profile with confirmation modal.
 - Show profile image in the top right when a user is logged in.
-
-# Project 3 - Skills sharing app - SpeakEasy
-
-This is an app that allows users to meet up with other users close to them and exchange skills.
-
-##### [See it here!](https://secure-oasis-40917.herokuapp.com/)
-
-![](/src/assets/speakEasy_homePage.png)
-
-
-## Technologies Used
- - Built with Node & express
- - Angular was used for the front end
- - Styled with NG-Material plugin
- - We also used the Google maps, google places and nodeMailer APIs
- - Deployed with Heroku
- - Git
-
-![](/src/assets/speakEasy_search.png)
-
-
-## Approach Taken
-- This app was our first group project at GA, because of this the planning phase was crucial in order to ensure all members had a clear idea as to what the final product should be.
-- After a long discussion where all group members were welcome to put forth their ideas, we decided on a skills Sharing app.
-- From there we planned our page layout and user journey through balsamic as a group.
-- We continued to work as a group throughout the project using an agile approach which included morning stand-ups.
-- We also used Git to manage version control  
-
-![](/src/assets/speakEasy_profilePage.png)
-
-
-## Features
-- A user can search the user database by language/name and distance from current location
-- Once a user has a fully completed profile, the user can message other users through nodeMailer. This ensures that personal   emails do not need to be posted on the site.
-- A user can add skills to the database. If they do not already exist.
-- Page is fully responsive
