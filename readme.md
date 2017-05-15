@@ -8,7 +8,7 @@ The user can login via Facebook or GitHub and you are only able to contact anoth
 
 [Check it out here - SpeakEasy - Meet up. Speak up. Language exchange...](https://secure-oasis-40917.herokuapp.com/)
 
-![SpeakEasy - homepage](https://github.com/1Guv/WDI-25-Project-3/blob/master/src/images/p3-SpeakEasy-2?raw=true "SpeakEasy homepage screen shot")
+![SpeakEasy - homepage](https://github.com/1Guv/WDI-25-Project-3/blob/master/src/images/p3-SpeakEasy-2.png?raw=true "SpeakEasy homepage screen shot")
 
 ![SpeakEasy - Search](https://github.com/1Guv/WDI-25-Project-3/blob/master/src/images/SpeakEasy-screenshot1%20copy.png?raw=true "SpeakEasy Search with Map")
 
